@@ -1,10 +1,13 @@
 
 # v-mask
 # An open-source project to predict, prevent and combat on-the-go climate change effects related to air quality, pandemic or viruses outbreaks and pollution in high density places.
-For the above mentioned our vision is to create a personal deveice which is connected to the cloud and interneconnected with real-time data from weather stations, environment sensing stations and other IoT plaforms to provide on-the-go location based air quality assesment.
+For the above mentioned our vision is to create a personal device which is connected to the cloud and interneconnected with real-time data from weather stations, environment sensing stations and other IoT plaforms to provide on-the-go location based air quality assesment.
 
-For this to happen, we are aiming to use data from 1 micron IR sensors to model prectiors and increase safety.
-These sensors are pocket size with a battery and can asses air quality based on location.
+For this to happen, we are aiming to use data from 1 micron IR sensors (or Pyroelectric) to model predictors and increase safety.
+These sensors are pocket size with a battery and bluetooth and can asses air quality based on location.
+Based on sensor data, we will give a boolen (YES/NO) for PPE requirements such as
+- High CO2, VOCs, PM
+- Virus outbreak / national / safety rules
 
 We aim to mount these senors on PPE masks and to prevent and remove
  - VOCs (often in cities are relseased by cars)

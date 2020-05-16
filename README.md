@@ -1,6 +1,6 @@
 
 # v-mask
-[[https://github.com/homepods/v-mask/blob/master/V3/Exploded-View.png]]
+![alt text](https://github.com/homepods/v-mask/blob/master/V3/Exploded-View.png)
 
 
 # Use 3 types of filters. 

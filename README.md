@@ -1,4 +1,7 @@
+
 # v-mask
+[[https://github.com/homepods/v-mask/V3/Exploded-View.png|alt=v3-respirator]]
+
 # Use 3 types of filters. 
  - a synthetic anti-bacterial particulate filter like HEPA h14 or ULPA
  - a basic activated carbon filter from coal and coconut activated charcoal with a rate of 1 part coal 2 parts coconut to help remove NOx and VOCs

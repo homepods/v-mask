@@ -1,6 +1,7 @@
 
 # v-mask
-[[https://github.com/homepods/v-mask/V3/Exploded-View.png|alt=v3-respirator]]
+[[https://github.com/homepods/v-mask/blob/master/V3/Exploded-View.png|alt=v3-respirator]]
+
 
 # Use 3 types of filters. 
  - a synthetic anti-bacterial particulate filter like HEPA h14 or ULPA
